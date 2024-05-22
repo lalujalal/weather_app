@@ -1,18 +1,21 @@
-List<String>imagePaths=[
-  "assets/img/cloudrain.png",
-  "assets/img/clouds.png",
-  "assets/img/cloudsun.png",
-  "assets/img/drizzle.png",
-  "assets/img/mistcloud.png",
-  "assets/img/snow.png",
-];
+Map<String,dynamic>imagePaths={
+  "Clear":"assets/img/cloudsun.png",  
+  "Thunderstorm ":"assets/img/lightning.png",
+  "Clouds":"assets/img/clouds.png",
+ "Drizzle": "assets/img/drizzle.png",
+  "Haze":"assets/img/fewclouds.png",
+  "Mist":"assets/img/mistcloud.png",
+  "Snow":"assets/img/snow.png",
+  "Rain":"assets/img/cloudrain.png",
+};
 
-List<String>background=[
-  "assets/img/bg.png",
-  "assets/img/bgmorning.jpg",
-  "assets/img/drizzlebg.jpg",
-  "assets/img/bgrise.jpg",
-];
+Map<String,dynamic>background={
+  "Clouds":"assets/img/bg.png",
+  "Thunder":"assets/img/bgrise.jpg",
+  "Clear":"assets/img/bgmorning.jpg",
+  "Drizzle":"assets/img/drizzlebg.jpg",
+  "Rain":"assets/img/rain.jpg",
+};
 
 List<String>tempsymbols=[
   "assets/img/hightemp.png",

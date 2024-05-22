@@ -1,0 +1,6 @@
+{
+    "editor.experimentalInlineEdit.showToolbar": "always",
+    "editor.inlineSuggest.showToolbar": "onHover",
+    "debug.showSubSessionsInToolBar": true,
+    "notebook.cellToolbarVisibility": "hover"
+}

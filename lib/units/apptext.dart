@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 class Apptext extends StatelessWidget {
-  final String data;
+  final String? data;
   final double? size;
   final Color? color;
   final FontWeight? fw;
