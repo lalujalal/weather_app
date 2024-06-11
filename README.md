@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A new Flutter project. fetching weather api, accessing device location,ui changing based on climate change and change place
 
 ## Getting Started
 
